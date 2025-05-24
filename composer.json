@@ -1,5 +1,5 @@
 {
-    "name": "robtrehy/laravel-user-preferences",
+    "name": "root-logic/laravel-user-preferences",
     "description": "A package for Laravel to store user preferences for your project.",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Rob Trehy",
             "email": "robert@trehy.co.uk"
+        },
+        {
+            "name": "Yudhistira Mauris",
+            "email": "mauris@rootlogic.net"
         }
     ],
     "require": {
